@@ -39,7 +39,6 @@ apis:
   - name: Namedays Calendar
     description: "Provides namedays for multiple countries"
     humanURL: https://nameday.abalin.net
-    baseURL: https://nameday.abalin.net
     tags:
       - Calendar
     properties:
